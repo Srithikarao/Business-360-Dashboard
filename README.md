@@ -36,8 +36,7 @@ To analyze the performance of **AtliQ Hardware**, a fast-growing consumer electr
 ---
 
 ##  Tech Stack
-
- Tool              Purpose                                
+                             
 ----------------------------------------------------------
  Power BI Desktop - Data modeling, DAX, report creation    
  Excel            - Pre-cleaning, calculations, formatting 
