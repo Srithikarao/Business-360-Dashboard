@@ -2,7 +2,7 @@
 
 Welcome to **Business Insight 360**, a comprehensive Power BI dashboard designed to analyze business operations across Finance, Sales, Marketing, and Supply Chain domains.
 
-This project was built as part of the **Codebasics Power BI Bootcamp**, where I explored the end-to-end BI workflow — from data modeling to storytelling.
+In this project, I explored the end-to-end BI workflow from data modeling to storytelling.
 
 🔗 **Live Dashboard**: [Click to View](https://bit.ly/4nm1HH8)
 
@@ -14,9 +14,6 @@ To analyze the performance of **AtliQ Hardware**, a fast-growing consumer electr
 
 ---
 
-##  Dataset
-
-- **Source**: Provided by Codebasics Bootcamp  
 - **Data Domains**: Finance, Sales, Marketing, Supply Chain  
 - **Tables**: 10+ relational tables (Customers, Products, Orders, Deductions, Forecasts, etc.)
 
